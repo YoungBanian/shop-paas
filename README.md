@@ -1,2 +1,2 @@
-# shop-pass
-Pass平台电商微服务
+# shop-paas
+Paas平台电商微服务
